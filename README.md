@@ -11,7 +11,7 @@ Data Analysis and feature engineering in this notebook was done using:
 
       (713,8)                               (713,5)
     X -------                           | A1-------------
-      (8,5)   |         (713,5)         |    (5,1)      |        (300,10)
+      (8,5)   |         (713,5)         |    (5,1)      |        (713,1)
     W1 ------ --- Z1 -->sigmoid(A)--->  W2------------  Z2 --> sigmoid(Z2) --> A2
      (5,)     |                         |    (1,)       |
     B1 ------                           | B2------------
